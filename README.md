@@ -2,7 +2,7 @@
 
 
 # About Inputs
----
+
 ## Input list
 + Button
 + Dropdown
@@ -38,26 +38,26 @@
 | texture | string |
 | size    | array  |
 
-## Input
+### Input
 | Field       | Type   |
 | ----------- | ------ |
 | text        | string |
 | placeholder | string |
 | default     | string |
 
-## Input
+### Input
 | Field       | Type   |
 | ----------- | ------ |
 | text        | string |
 | placeholder | string |
 | default     | string |
 
-## Label
+### Label
 | Field       | Type   |
 | ----------- | ------ |
 | text        | string |
 
-## Slider
+### Slider
 | Field   | Type   |
 | ------- | ------ |
 | text    | string |
@@ -66,34 +66,34 @@
 | step    | int    |
 | default | int    |
 
-## StepSlider
+### StepSlider
 | Field   | Type   |
 | ------- | ------ |
 | text    | string |
 | steps   | array  |
 | default | int    |
 
-## Toggle
+### Toggle
 | Field   | Type   |
 | ------- | ------ |
 | text    | string |
 | default | int    |
 
----
+
 
 # About Packets
----
+
 ## Packet list
 + ModalFormRequestPacket
 + ModalFormResponsePacket
 
-## ModalFormRequestPacket
+### ModalFormRequestPacket
 | Field     | Type   |
 | --------- | ------ |
 | formId    | int    |
 | formData  | string |
 
-## ModalFormResponsePacket
+### ModalFormResponsePacket
 | Field     | Type   |
 | --------- | ------ |
 | formId    | int    |
