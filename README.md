@@ -1,5 +1,5 @@
 # Documentation for MCPE modal forms
-===
+
 
 # About Inputs
 ---
@@ -23,40 +23,40 @@
 | ----------- | ------ |
 | type        | string |
 | data        | string |
----
+
 ### Dropdown
 | Field   | Type   |
 | ------- | ------ |
 | text    | string |
 | default | int    |
 | options | array  |
----
+
 ### Image
 | Field   | Type   |
 | ------- | ------ |
 | text    | string |
 | texture | string |
 | size    | array  |
----
+
 ## Input
 | Field       | Type   |
 | ----------- | ------ |
 | text        | string |
 | placeholder | string |
 | default     | string |
----
+
 ## Input
 | Field       | Type   |
 | ----------- | ------ |
 | text        | string |
 | placeholder | string |
 | default     | string |
----
+
 ## Label
 | Field       | Type   |
 | ----------- | ------ |
 | text        | string |
----
+
 ## Slider
 | Field   | Type   |
 | ------- | ------ |
@@ -65,21 +65,21 @@
 | max     | int    |
 | step    | int    |
 | default | int    |
----
+
 ## StepSlider
 | Field   | Type   |
 | ------- | ------ |
 | text    | string |
 | steps   | array  |
 | default | int    |
----
+
 ## Toggle
 | Field   | Type   |
 | ------- | ------ |
 | text    | string |
 | default | int    |
 
-===
+---
 
 # About Packets
 ---
@@ -92,7 +92,7 @@
 | --------- | ------ |
 | formId    | int    |
 | formData  | string |
----
+
 ## ModalFormResponsePacket
 | Field     | Type   |
 | --------- | ------ |
