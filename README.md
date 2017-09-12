@@ -90,11 +90,11 @@
 ### ModalFormRequestPacket
 | Field     | Type   |
 | --------- | ------ |
-| formId    | int    |
+| formId    | varInt |
 | formData  | string |
 
 ### ModalFormResponsePacket
 | Field     | Type   |
 | --------- | ------ |
-| formId    | int    |
+| formId    | varInt |
 | formData  | string |
