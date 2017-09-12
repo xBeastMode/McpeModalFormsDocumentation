@@ -4,16 +4,16 @@
 # About Inputs
 
 ## Input list
-+ Button
-+ Dropdown
-+ Image
-+ Input
-+ Label
-+ Slider
-+ StepSlider
-+ Toggle
++ button
++ dropdown
++ image
++ input
++ label
++ slider
++ step_slider
++ toggle
 
-### Button
+### button
 | Field | Type   |
 | ----- | ----   |
 | text  | string |
@@ -24,41 +24,37 @@
 | type        | string |
 | data        | string |
 
-### Dropdown
-| Field   | Type   |
+### dropdown
+| Field   | Type   |
 | ------- | ------ |
 | text    | string |
 | default | int    |
 | options | array  |
 
-### Image
-| Field   | Type   |
+### image
+| Field   | Type   |
 | ------- | ------ |
 | text    | string |
 | texture | string |
 | size    | array  |
 
-### Input
-| Field       | Type   |
+### input
+
+| field       | type   |
 | ----------- | ------ |
 | text        | string |
 | placeholder | string |
-| default     | string |
+| default     | string |
 
-### Input
-| Field       | Type   |
-| ----------- | ------ |
-| text        | string |
-| placeholder | string |
-| default     | string |
 
-### Label
-| Field       | Type   |
+
+### label
+| Field       | Type   |
 | ----------- | ------ |
 | text        | string |
 
-### Slider
-| Field   | Type   |
+### slider
+| Field   | Type   |
 | ------- | ------ |
 | text    | string |
 | min     | int    |
@@ -66,15 +62,15 @@
 | step    | int    |
 | default | int    |
 
-### StepSlider
-| Field   | Type   |
+### step_slider
+| Field   | Type   |
 | ------- | ------ |
 | text    | string |
 | steps   | array  |
 | default | int    |
 
-### Toggle
-| Field   | Type   |
+### toggle
+| Field   | Type   |
 | ------- | ------ |
 | text    | string |
 | default | int    |
