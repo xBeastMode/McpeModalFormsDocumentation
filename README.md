@@ -73,7 +73,7 @@
 | steps   | array  |
 | default | int    |
 ---
-#Toggle
+## Toggle
 | Field   | Type   |
 | ------- | ------ |
 | text    | string |
@@ -87,13 +87,13 @@
 + ModalFormRequestPacket
 + ModalFormResponsePacket
 
-#ModalFormRequestPacket
+## ModalFormRequestPacket
 | Field     | Type   |
 | --------- | ------ |
 | formId    | int    |
 | formData  | string |
 ---
-#ModalFormResponsePacket
+## ModalFormResponsePacket
 | Field     | Type   |
 | --------- | ------ |
 | formId    | int    |
