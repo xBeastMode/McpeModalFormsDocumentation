@@ -31,12 +31,6 @@
 | default | int    |
 | options | array  |
 
-### image
-| Field   | Type   |
-| ------- | ------ |
-| text    | string |
-| texture | string |
-| size    | array  |
 
 ### input
 
